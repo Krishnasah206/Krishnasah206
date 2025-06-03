@@ -11,15 +11,11 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-Dedicated **AI/ML enthusiast** with hands-on experience in intelligent systems, frontend development, and cloud-based applications. I enjoy solving real-world problems with scalable and smart solutions.
+I’m a final-year B.Tech student in **Artificial Intelligence and Machine Learning** at *C.V. Raman Global University*, with a CGPA of **8.59**.
 
-- 💡 Currently building: AI-powered web apps & smart recommendation systems  
-- 📘 Learning: Deep learning, cloud deployment, full-stack integration  
-- 🛠️ Tools I use: Python, Java, ReactJS, TensorFlow, Git, Streamlit  
-- 🧩 Solved 200+ DSA problems on LeetCode and GFG  
-- 🏅 Full **SII-Scholarship** recipient (Govt. of India, 2022–2026)
+I’m passionate about developing **scalable applications** and **intelligent systems** that solve real-world problems. I have hands-on experience with **Java**, **Spring Boot**, **React.js**, and **Machine Learning** technologies. Always eager to learn and grow in fast-paced, collaborative environments.
 
 ---
 
@@ -40,15 +36,3 @@ _June 2020 – July 2022_
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasah2060&layout=compact&theme=react)
 
 ---
-
-## 🔧 Tech Stack
-
-- **Languages:** Java, Python, MySQL  
-- **Frameworks:** ReactJS, TensorFlow, Scikit-learn  
-- **Developer Tools:** VS Code, Git  
-- **Cloud & Platforms:** Streamlit, Gradio, Sanity CMS  
-
----
-
-> “The best way to predict the future is to invent it.” – Alan Kay
-
