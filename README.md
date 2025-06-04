@@ -2,7 +2,7 @@
 
 🎓 Artificial Intelligence and Machine Learning student at **C.V. Raman Global University**  
 📍 Based in Bhubaneswar, Odisha, India  
-📧 krishnasah2060@gmail.com | 📞 +91-9279407497  
+📧 krishnasah2060@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/krishnasah2060)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/krishnasah2060/)  
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I’m a final-year B.Tech student in **Artificial Intelligence and Machine Learning** at *C.V. Raman Global University*, with a CGPA of **8.59**.
+I’m a final-year B.Tech student in **Artificial Intelligence and Machine Learning** at *C.V. Raman Global University*.
 
 I’m passionate about developing **scalable applications** and **intelligent systems** that solve real-world problems. I have hands-on experience with **Java**, **Spring Boot**, **React.js**, and **Machine Learning** technologies. Always eager to learn and grow in fast-paced, collaborative environments.
 
@@ -22,9 +22,6 @@ I’m passionate about developing **scalable applications** and **intelligent sy
 
 **B.Tech in AI & ML** — *C.V. Raman Global University, India*  
 _Oct 2022 – Present_
-
-**Science High School** — *Om National Academy, Nepal*  
-_June 2020 – July 2022_
 
 ---
 
