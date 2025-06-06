@@ -24,10 +24,3 @@ I’m passionate about developing **scalable applications** and **intelligent sy
 _Oct 2022 – Present_
 
 ---
-
-## 📊 GitHub Stats
-
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnasah2060&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasah2060&layout=compact&theme=react)
-
----
