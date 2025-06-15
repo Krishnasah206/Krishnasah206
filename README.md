@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/krishnasah2060)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/krishnasah2060/)  
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&style=for-the-badge)](https://www.geeksforgeeks.org/user/krishnasah2060/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&style=for-the-badge)](https://www.geeksforgeeks.org/user/krishnasah2060/)<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&style=for-the-badge)](https://personal-portfolio-pi-pearl-21.vercel.app/)  
 
 ---
